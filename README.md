@@ -1,2 +1,3 @@
 # ICCV_2023
-A Comprehensive Framework for Evaluating Deepfake Generator Techniques: Performance Metrics and Comparative Analysis
+A Comprehensive Framework for Evaluating Deepfake Generators:
+Dataset, Metrics Performance, and Comparative Analysis
