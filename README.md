@@ -6,13 +6,13 @@ Our dataset structure follows the format of the original FaceScape dataset, ensu
 
 ### Requirements
 Before using the code and resources provided in this repository, ensure you have the following dependencies installed:
-Python (>= 3.6)
-OpenCV (cv2)
-NumPy (numpy)
-Pillow (PIL)
-trimesh
-pyrender
-Real Dataset
+* Python (>= 3.6)
+* OpenCV (cv2)
+* NumPy (numpy)
+* Pillow (PIL)
+* trimesh
+* pyrender
+
 Our source code includes tools to generate a real dataset, which can be a valuable asset for evaluating deepfake generators.
 
 ## Synthesized Dataset of MetaHumans
