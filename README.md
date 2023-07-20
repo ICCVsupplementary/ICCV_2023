@@ -1,5 +1,5 @@
 # A Comprehensive Framework for Evaluating Deepfake Generators: Dataset, Metrics Performance, and Comparative Analysis
-![Image Alt Text]([Image_URL](https://github.com/ICCVsupplementary/ICCV_2023/blob/main/protocol_final.png?raw=true)) 
+![Image Alt Text]([https://github.com/ICCVsupplementary/ICCV_2023/blob/main/protocol_final.png?raw=true]
 
 This project is aimed at providing researchers and developers with a comprehensive toolkit to evaluate deepfake generators. We are actively working on adding content, code, and other resources to this project. Please bear with us while we build and improve the repository.
 
