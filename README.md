@@ -1,10 +1,8 @@
 # A Comprehensive Framework for Evaluating Deepfake Generators: Dataset, Metrics Performance, and Comparative Analysis
 ![My Photo](https://github.com/ICCVsupplementary/ICCV_2023/blob/main/protocol_final.png)
 
-This project is aimed at providing researchers and developers with a comprehensive toolkit to evaluate deepfake generators. We are actively working on adding content, code, and other resources to this project. Please bear with us while we build and improve the repository.
-
 ## Real dataset
-Our dataset structure follows the format of the original FaceScape dataset, ensuring compatibility with FaceScape's data organization, file naming conventions, and directory structure for consistency and ease of use. For more detailed information on the dataset attributes and their meanings, please refer to the FaceScape documentation.
+Our dataset structure follows the format of the original FaceScape [1] dataset, ensuring compatibility with FaceScape's data organization, file naming conventions, and directory structure for consistency and ease of use. For more detailed information on the dataset attributes and their meanings, please refer to the FaceScape documentation.
 
 ### Requirements
 Before using the code and resources provided in this repository, ensure you have the following dependencies installed:
@@ -28,3 +26,5 @@ If you have any questions, feedback, or inquiries related to this project, pleas
 
 
 Note: This repository is currently under construction, and we are actively working on adding more content. Please check back later for updates!
+
+[1] https://github.com/zhuhao-nju/facescape
