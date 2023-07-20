@@ -13,16 +13,16 @@ Before using the code and resources provided in this repository, ensure you have
 * trimesh
 * pyrender
 
-Our source code includes tools to generate a real dataset, which can be a valuable asset for evaluating deepfake generators.
 
 ## Synthesized Dataset of MetaHumans
-In addition to the Real dataset, we offer an example of a synthesized dataset of MetaHumans. This dataset comprises six different characters sharing the same head pose and expression. You can access the dataset through the following link: MetaHuman Synthesized Dataset.
+In addition to the Real dataset, we offer an example of a synthesized dataset of MetaHumans. This dataset comprises six different characters sharing the same head pose and expression. You can access the dataset through the following link: 
 
+https://drive.google.com/drive/folders/1fRA22md2uqez84zyV1cJ5TlRVZbtrght?usp=sharing
 
 
 ### Contact
 If you have any questions, feedback, or inquiries related to this project, please feel free to reach out to us. You can find our contact information in the 
-ToDo
+* ToDo
 
 
 Note: This repository is currently under construction, and we are actively working on adding more content. Please check back later for updates!
